@@ -8,6 +8,7 @@ namespace githublearning
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Here's another line to push up to github.");
+            Console.WriteLine("Third line.");
         }
     }
 }
